@@ -1,4 +1,4 @@
-<img alt="Abhimanyu Kumar - hero banner" src="dark.svg" width="100%">
+<img alt="Abhimanyu Kumar - hero banner" src="Dark.svg" width="100%">
 
 <br/>
 
